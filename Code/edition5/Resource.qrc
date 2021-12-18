@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss.qss</file>
+        <file>image/slider_handle.svg</file>
+        <file>image/bofang.svg</file>
+        <file>image/dakai.svg</file>
+        <file>image/jiasu.svg</file>
+        <file>image/jingyin.svg</file>
+        <file>image/kongzhi.svg</file>
+        <file>image/quanping.svg</file>
+        <file>image/shangyishou.svg</file>
+        <file>image/tingzhi.svg</file>
+        <file>image/xiayishou.svg</file>
+        <file>image/yinliangjian.svg</file>
+        <file>image/yuanxingbofang.svg</file>
+        <file>image/guanbi.svg</file>
+        <file>image/logo.ico</file>
+    </qresource>
+</RCC>
